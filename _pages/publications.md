@@ -11,14 +11,3 @@ author_profile: true
 
 *    ["Are the Effects of a US Financial Shock on non-US Countries Asymmetric"](https://hskim27.github.io/files/us_financial_shock_asymmetric.pdf) Working Paper
 
-
-
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
