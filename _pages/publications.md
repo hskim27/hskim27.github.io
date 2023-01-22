@@ -9,7 +9,7 @@ author_profile: true
 
 *    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284) with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, IMF Working Paper 
 
-*    ["Are the Effects of a US Financial Shock on non-US Countries Asymmetric"](https://hskim27.github.io/files/Are the Effects of a US Financial Shock on non-US Countries Asymmetric.pdf) Working Paper
+*    ["Are the Effects of a US Financial Shock on non-US Countries Asymmetric"](https://hskim27.github.io/files/us_financial_shock_asymmetric.pdf) Working Paper
 
 
 
