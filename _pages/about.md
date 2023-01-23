@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Ph.D. candidate in Economics at Indiana University Bloomington
+Welcome! I am a Ph.D. candidate in Economics at Indiana University Bloomington.
 
 Fields of Interest: Macroeconomics, Time-Series Econometrics, Climate-Macro, Bayesian Econometrics
 
