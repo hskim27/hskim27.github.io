@@ -11,3 +11,5 @@ author_profile: true
 
 *    ["Are the Effects of a US Financial Shock on non-US Countries Asymmetric"](https://hskim27.github.io/files/us_financial_shock_asymmetric.pdf) Working Paper
 
+
+* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio" with Dong Wan Shin, Applied Economics Letters (2019)
