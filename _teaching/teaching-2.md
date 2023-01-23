@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: teaching/teaching-2
 venue: "Indiana University, Department of Economics"
-date: 2023
+date: 2023-01-09
 
 ---
 
