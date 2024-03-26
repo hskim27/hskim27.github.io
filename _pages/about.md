@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Ph.D. candidate in Economics at Indiana Univeristy Bloomington"
 author_profile: true
 redirect_from: 
