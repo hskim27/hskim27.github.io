@@ -85,7 +85,7 @@
 
   img {
     max-width: 250px;    /*  change photo size from here; default : 175px */
-    /* height: 250px;   use this if want to change photo shape from oval to square */
+    height: 450px;  /*  use this if want to change photo shape from oval to square */
     border-radius: 10%; /* this code is related to setting radius for oval shape of the photo; default: 50% */
 
     @include breakpoint($large) {
