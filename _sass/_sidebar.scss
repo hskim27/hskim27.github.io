@@ -72,7 +72,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 136px;    /* default : 36px */
+  width: 36px;    /* default : 36px */
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -85,7 +85,7 @@
   img {
     max-width: 500px;   /* change photo size from here; default : 175px */
     /*  height: 250px; use this if want to change photo shape from oval to square */
-    border-radius: 40%; /* this code is related to setting radius for oval shape of the photo */
+    border-radius: 50%; /* this code is related to setting radius for oval shape of the photo */
 
     @include breakpoint($large) {
       padding: 5px;
