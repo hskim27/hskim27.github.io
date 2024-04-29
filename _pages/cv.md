@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click CV here](/files/HSKim_CV.pdf)
+[comment]: # [Click CV here](/files/HSKim_CV.pdf)
+
+<embed src="https://hskim27.github.io/files/HSKim_CV.pdf" type="application/pdf" width="600px" height="500px" />
