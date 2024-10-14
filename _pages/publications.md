@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](available soon) _(Job Market Paper)_
+*    "Heterogeneity in the Economic Impact of Temperature Shocks Across US States"(available soon) _(Job Market Paper)_
 *    
 *    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan _(AEJ:Macro, forthcoming)_
 
