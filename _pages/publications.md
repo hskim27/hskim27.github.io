@@ -4,8 +4,8 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-*    "Heterogeneity in the Economic Impact of Temperature Shocks Across US States"(available soon) _(Job Market Paper)_
-*    
+*    "Heterogeneity in the Economic Impact of Temperature Shocks Across US States" _<strong>Job Market Paper</strong>_ (available soon)
+  
 *    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan _(AEJ:Macro, forthcoming)_
 
 *    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284) with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, _IMF Working Paper No. 2022/237_ 
