@@ -11,4 +11,4 @@ redirect_from:
 
 [comment]: # [Click CV here](/files/HSKim_CV.pdf)
 
-<embed src="files/HSKim_CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="/files/HSKim_CV.pdf" type="application/pdf" width="600px" height="500px" />
