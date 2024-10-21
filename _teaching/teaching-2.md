@@ -8,5 +8,5 @@ date: 2023-01-09
 
 ---
 
-SP23
+SP23 (Sole Instructor)
 
