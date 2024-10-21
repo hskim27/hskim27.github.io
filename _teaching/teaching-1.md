@@ -5,8 +5,8 @@ type: "Undergraduate course"
 permalink: /teaching/teaching-1
 venue: "Indiana University, Department of Economics"
 date: 2019-08-19
-role: Sole Instructor
+
 
 ---
 
-FA19-SP22, SP24
+FA19-SP22, SP24 (Sole Instructor)
