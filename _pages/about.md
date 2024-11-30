@@ -10,7 +10,8 @@ redirect_from:
 Welcome to my webpage! 
 
 I am a Ph.D. candidate in Economics at Indiana University Bloomington.  
-My research interests lie in <strong>Empirical Macroeconomics, Climate Economics, and Applied Time-Series Econometrics</strong>. I am particularly interested in studying the macroeconomic effects of climate change using time-series methods. 
+
+My research interests lie in _Empirical Macroeconomics, Climate Economics, and Applied Time-Series Econometrics_. I am particularly interested in studying the macroeconomic effects of climate change using time-series methods. 
 
 I will be on the job market in the academic year 2024-2025 and expect to graduate in May 2025.
 
