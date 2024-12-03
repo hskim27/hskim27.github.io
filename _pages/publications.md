@@ -24,7 +24,8 @@ author_profile: true
         the macroeconomic level.
       </details>
 
-*    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284) with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, _IMF Working Paper No. 2022/237_
+*    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284)  
+  with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, _IMF Working Paper No. 2022/237_
         <details>
           <summary>Click for Abstract</summary>
           Central America is one of the world’s most vulnerable regions to extreme climate events. The literature estimates the macroeconomic effects of climate events mainly using annual data, which might underestimate 
@@ -47,8 +48,8 @@ author_profile: true
           conditions, generates no statistically significant responses. The asymmetry also exists in short-term interest rates and share prices indices.
         </details> 
 
-* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio" with Dong Wan Shin, _Applied Economics Letters (2019)_
-  (pre-PhD publication)
+* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio"  
+  with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication)
     <details>
       <summary>Click for Abstract</summary>
       We derive the asymptotic distribution for the LU decomposition, that is, the Cholesky decomposition, of realized covariance matrix. Distributional properties are combined with an existing generalized heterogeneous 
