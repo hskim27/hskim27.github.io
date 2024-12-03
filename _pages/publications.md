@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) <strong>(Job Market Paper)</strong>
+*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) **(Job Market Paper)**
       <details>
         <summary>Click for Abstract</summary>
         This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, 
@@ -15,7 +15,7 @@ author_profile: true
         (especially in southern states). Variations in state-level responses are explained by state attributes such as sectoral shares of manufacturing and services along with average temperature.
       </details>
   
-*    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan _(AEJ:Macro, forthcoming)_
+*    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan **(AEJ:Macro, forthcoming)**
       <details>
         <summary>Click for Abstract</summary>
         We investigate the impact of severe weather shocks on the US macroeconomy over the past sixty years. Using a nonlinear vector autoregressive model, we find robust evidence of time-varying effects. 
@@ -49,7 +49,7 @@ author_profile: true
         </details> 
 
 * ["Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio"](https://www.dropbox.com/scl/fi/8lv4uxqagmpnfm2bf41z2/Forecast-of-realized-covariance-matrix-based-on-asymptotic-distribution-of-the-LU-decomposition-with-an-application-for-balancing-minimum-variance-portfolio.pdf?rlkey=jg5deg315x8cshbt4xr5qx85l&st=dtbocb4q&dl=0)  
-  with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication; master's thesis)
+  with Dong Wan Shin, **Applied Economics Letters (2019)** (pre-PhD publication; master's thesis)
     <details>
       <summary>Click for Abstract</summary>
       We derive the asymptotic distribution for the LU decomposition, that is, the Cholesky decomposition, of realized covariance matrix. Distributional properties are combined with an existing generalized heterogeneous 
