@@ -12,16 +12,16 @@ author_profile: true
         resemble demand or supply shock at the state-level. The nature of shock varies by season and time horizon: cold season shock initially acts as positive demand and supply shock but transitions to negative supply
         (mostly in north-eastern states) and positive demand shock (mostly in southern states) as the time horizon extends, whereas warm season shock predominantly resembles negative supply shock after seven quarters 
         (especially in southern states). Variations in state-level responses are explained by state attributes such as sectoral shares of manufacturing and services along with average temperature.
-   </details>
+        </details>
   
 *    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan _(AEJ:Macro, forthcoming)_
-    <details>
+      <details>
       <summary style="margin-left: 20px;">Click for Abstract</summary>
         We investigate the impact of severe weather shocks on the US macroeconomy over the past sixty years. Using a nonlinear vector autoregressive model, we find robust evidence of time-varying effects. 
         While negligible at the beginning of the sample, the impact becomes significant at the end, where an increase in the severe weather index reduces aggregate industrial production and consumption growth rates, and 
         raises aggregate unemployment and inflation rates. The effects are persistent for up to twenty months. Our findings suggest limited adaptation to the increased severity of weather in the United States, at least at 
         the macroeconomic level.
-   </details>
+       </details>
 
 *    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284) with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, _IMF Working Paper No. 2022/237_
     <details>
