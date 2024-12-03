@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) **(Job Market Paper)**
+*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) <strong>(Job Market Paper)</strong>
       <details>
         <summary>Click for Abstract</summary>
         This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, 
