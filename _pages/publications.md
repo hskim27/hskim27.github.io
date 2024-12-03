@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) <strong>(Job Market Paper)</strong>
+*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) **(Job Market Paper)**
       <details>
         <summary>Click for Abstract</summary>
         This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, 
@@ -16,7 +16,7 @@ author_profile: true
         (especially in southern states). Variations in state-level responses are explained by state attributes such as sectoral shares of manufacturing and services along with average temperature.
       </details>
   
-*    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan <strong>(AEJ:Macro, forthcoming)</strong>
+*    ["Severe Weather and the Macroeconomy"](https://hskim27.github.io/files/weather_2024.pdf) with Christian Matthes and Toan Phan **(AEJ:Macro, forthcoming)**
       <details>
         <summary>Click for Abstract</summary>
         We investigate the impact of severe weather shocks on the US macroeconomy over the past sixty years. Using a nonlinear vector autoregressive model, we find robust evidence of time-varying effects. 
