@@ -48,7 +48,7 @@ author_profile: true
           conditions, generates no statistically significant responses. The asymmetry also exists in short-term interest rates and share prices indices.
         </details> 
 
-* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio"  
+* ["Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio"](https://www.dropbox.com/scl/fi/8lv4uxqagmpnfm2bf41z2/Forecast-of-realized-covariance-matrix-based-on-asymptotic-distribution-of-the-LU-decomposition-with-an-application-for-balancing-minimum-variance-portfolio.pdf?rlkey=jg5deg315x8cshbt4xr5qx85l&st=dtbocb4q&dl=0)  
   with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication)
     <details>
       <summary>Click for Abstract</summary>
