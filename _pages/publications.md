@@ -21,7 +21,7 @@ author_profile: true
         While negligible at the beginning of the sample, the impact becomes significant at the end, where an increase in the severe weather index reduces aggregate industrial production and consumption growth rates, and 
         raises aggregate unemployment and inflation rates. The effects are persistent for up to twenty months. Our findings suggest limited adaptation to the increased severity of weather in the United States, at least at 
         the macroeconomic level.
-       </details>
+      </details>
 
 *    ["On the Macro Impact of Extreme Climate Events in Central America: A Higher Frequency Investigation"](https://www.imf.org/en/Publications/WP/Issues/2022/12/02/On-the-Macro-Impact-of-Extreme-Climate-Events-in-Central-America-A-Higher-Frequency-526284) with Carlos Chaverri, Emilio William Fernandez Corugedo, and Pedro Juarros, _IMF Working Paper No. 2022/237_
         <details>
@@ -52,5 +52,5 @@ author_profile: true
       We derive the asymptotic distribution for the LU decomposition, that is, the Cholesky decomposition, of realized covariance matrix. Distributional properties are combined with an existing generalized heterogeneous 
       autoregressive (GHAR) method for forecasting realized covariance matrix, which will be referred to as a generalized HARQ (GHARQ) method. An out-of-sample forecast comparison of a real data set shows that the 
       proposed GHARQ method outperforms other existing methods in terms of optimizing the variances of portfolios.
-       </details> 
+    </details> 
       
