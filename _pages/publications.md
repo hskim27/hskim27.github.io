@@ -7,7 +7,8 @@ author_profile: true
 *    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](https://www.dropbox.com/scl/fi/pixqzfym60cekmahld126/JMP_Kim.pdf?rlkey=b2rlj9bgaqiajr45numo7v2ry&st=l87lpgaq&dl=0) <strong>(Job Market Paper)</strong>
       <details>
         <summary>Click for Abstract</summary>
-        This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, seasons,
+        This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, 
+        seasons,
         and time horizons, with the sign of responses becoming synchronized seven quarters after temperature shocks. By examining the joint responses of output and prices, I explore whether temperature shocks
         resemble demand or supply shock at the state-level. The nature of shock varies by season and time horizon: cold season shock initially acts as positive demand and supply shock but transitions to negative supply
         (mostly in north-eastern states) and positive demand shock (mostly in southern states) as the time horizon extends, whereas warm season shock predominantly resembles negative supply shock after seven quarters 
@@ -46,7 +47,8 @@ author_profile: true
           conditions, generates no statistically significant responses. The asymmetry also exists in short-term interest rates and share prices indices.
         </details> 
 
-* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio" with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication)
+* "Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio" with Dong Wan Shin, _Applied Economics Letters (2019)_
+  (pre-PhD publication)
     <details>
       <summary>Click for Abstract</summary>
       We derive the asymptotic distribution for the LU decomposition, that is, the Cholesky decomposition, of realized covariance matrix. Distributional properties are combined with an existing generalized heterogeneous 
