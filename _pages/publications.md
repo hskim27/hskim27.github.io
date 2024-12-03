@@ -49,7 +49,7 @@ author_profile: true
         </details> 
 
 * ["Forecast of realized covariance matrix based on asymptotic distribution of the LU decomposition with an application for balancing minimum variance portfolio"](https://www.dropbox.com/scl/fi/8lv4uxqagmpnfm2bf41z2/Forecast-of-realized-covariance-matrix-based-on-asymptotic-distribution-of-the-LU-decomposition-with-an-application-for-balancing-minimum-variance-portfolio.pdf?rlkey=jg5deg315x8cshbt4xr5qx85l&st=dtbocb4q&dl=0)  
-  with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication; Master's thesis)
+  with Dong Wan Shin, _Applied Economics Letters (2019)_ (pre-PhD publication; master's thesis)
     <details>
       <summary>Click for Abstract</summary>
       We derive the asymptotic distribution for the LU decomposition, that is, the Cholesky decomposition, of realized covariance matrix. Distributional properties are combined with an existing generalized heterogeneous 
