@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*    ["Heterogeneity in the Economic Impact of Temperature Shocks Across US States"](Updated Draft Coming Soon) **(Job Market Paper)**
+*    "Heterogeneity in the Economic Impact of Temperature Shocks Across US States" (Updated Draft Coming Soon) **(Job Market Paper)**
      <!-- <details>
         <summary>Click for Abstract</summary>
         This paper presents new empirical evidence on short- and medium-term heterogeneous temperature effects on real GDP growth and inflation at the US state level. The results reveal heterogeneity across states, 
