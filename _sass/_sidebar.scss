@@ -72,20 +72,20 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 650px;    /* default : 36px */
+  width: 900px;    /* default : 36px */
   /*  height: 225px;   added this line manually */
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($large) {
+  @include breakpoint($large) {  /* related to setting at the $large screen size (like desktop or tablet) */
     display: block;
     width: auto;
     height: auto;
   }
 
   img {
-    max-width: 650px;    /*  change photo size from here; default : 175px */
-    /* height: 220px;    use this if want to change photo shape from oval to square */
+    max-width: 850px;    /*  change photo size from here; default : 175px */
+    height: auto;    /* keeps ratio correct */
     border-radius: 10%; /* this code is related to setting radius for oval shape of the photo; default: 50% */
 
     @include breakpoint($large) {
