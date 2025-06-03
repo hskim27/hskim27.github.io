@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hee Soo Kim"
   avatar           : "photo_hk74_.jpg"
-  bio              : "PhD @ IU"
-  location         : "Bloomington, IN"
-  employer         : "Indiana University"
+  bio              : "PhD @ Indiana University Bloomington"
+#  location         : "Bloomington, IN"
+#  employer         : "Indiana University"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : hk74@iu.edu
